@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fortniteShop/static/css/main.0aa49147.css",
+    "main.js": "/fortniteShop/static/js/main.da975669.js",
+    "static/media/Lack-Regular.ttf": "/fortniteShop/static/media/Lack-Regular.2e065c56e48c0e88882e.ttf",
+    "static/media/Aerodynamic Bold.ttf": "/fortniteShop/static/media/Aerodynamic Bold.0a291a9a8a479addb9fe.ttf",
+    "static/media/Aerodynamic Bold.woff": "/fortniteShop/static/media/Aerodynamic Bold.4688b74eec610b5cf99e.woff",
+    "static/media/Lack-Regular.woff": "/fortniteShop/static/media/Lack-Regular.39d8bf2d4c3f895a92ca.woff",
+    "static/media/DaysOne-Regular.ttf": "/fortniteShop/static/media/DaysOne-Regular.27bdc37ed8a1cf59fe4c.ttf",
+    "static/media/Aerodynamic Bold.woff2": "/fortniteShop/static/media/Aerodynamic Bold.fcbec3f18239623a0b68.woff2",
+    "static/media/Lack-Regular.woff2": "/fortniteShop/static/media/Lack-Regular.876de3b395c6aff67f1b.woff2",
+    "static/media/ObelixProRegular.eot": "/fortniteShop/static/media/ObelixProRegular.9f5ecc1da3a5d1162e2f.eot",
+    "static/media/ObelixProRegular.ttf": "/fortniteShop/static/media/ObelixProRegular.9d167aeef3b475afdda6.ttf",
+    "static/media/DaysOne-Regular.woff": "/fortniteShop/static/media/DaysOne-Regular.fecbd5125fb935666b73.woff",
+    "static/media/DaysOne-Regular.woff2": "/fortniteShop/static/media/DaysOne-Regular.f074a23b3e2ab93db600.woff2",
+    "static/media/ObelixProRegular.woff": "/fortniteShop/static/media/ObelixProRegular.7f2ca0b546a18910b29b.woff",
+    "index.html": "/fortniteShop/index.html",
+    "main.0aa49147.css.map": "/fortniteShop/static/css/main.0aa49147.css.map",
+    "main.da975669.js.map": "/fortniteShop/static/js/main.da975669.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aa49147.css",
+    "static/js/main.da975669.js"
+  ]
+}
